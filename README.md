@@ -1,2 +1,2 @@
 # CRISPys-Tomato
-Make sgRNA librariy for gene famielies of Solanum lycopersicum
+Make sgRNA librariy for gene families of Solanum lycopersicum
